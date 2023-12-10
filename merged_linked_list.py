@@ -1,3 +1,6 @@
+# Data Structures and Algorithms
+# Laboratory #6
+
 # Create a class named ListNode
 class ListNode:
     def __init__(self, value=0, next=None):
